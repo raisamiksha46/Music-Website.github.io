@@ -1,4 +1,4 @@
 # MusicWebsite
 
-A dummy website for the Music Industry created and produced by Samiksha Rai.
+A website to hire musicians, instrumentalists, book concerts, etc.
 Includes HTML, CSS and Bootstrap.
